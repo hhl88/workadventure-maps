@@ -218,7 +218,7 @@
                 {
                  "name":"meetingRoom",
                  "type":"string",
-                 "value":"silpion-blackfloor",
+                 "value":"silpion-blackfloor"
                 },
                 {
                  "name": "openWebsitePolicy",
