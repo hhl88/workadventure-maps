@@ -124,7 +124,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"seeMeRoom",
+                 "name":"meetingRoom",
                  "type":"string",
                  "value":"silpion-raucherraum"
                 },
@@ -147,11 +147,15 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"seeMeRoom",
+                 "name":"meetingRoom",
                  "type":"string",
-                 "value":"silpion-konfi",
-                 "openWebsitePolicy": "camera;microphone"
-                }],
+                 "value":"silpion-konfi"
+                },
+                {
+                 "name": "openWebsitePolicy",
+                 "value": "camera;microphone"
+                }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -166,11 +170,15 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"seeMeRoom",
+                 "name":"meetingRoom",
                  "type":"string",
-                 "value":"silpion-patrick",
-                 "openWebsitePolicy": "camera;microphone"
-                }],
+                 "value":"silpion-patrick"
+                },
+                {
+                 "name": "openWebsitePolicy",
+                 "value": "camera;microphone"
+                }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -185,11 +193,15 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"seeMeRoom",
+                 "name":"meetingRoom",
                  "type":"string",
-                 "value":"silpion-oliver",
-                 "openWebsitePolicy": "camera;microphone"
-                }],
+                 "value":"silpion-oliver"
+                },
+                {
+                 "name": "openWebsitePolicy",
+                 "value": "camera;microphone"
+                }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -204,11 +216,15 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"seeMeRoom",
+                 "name":"meetingRoom",
                  "type":"string",
                  "value":"silpion-blackfloor",
-                 "openWebsitePolicy": "camera;microphone"
-                }],
+                },
+                {
+                 "name": "openWebsitePolicy",
+                 "value": "camera;microphone"
+                }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":70,
