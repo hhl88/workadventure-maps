@@ -124,25 +124,13 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"meetingRoom",
+                 "name":"chatRooom",
                  "type":"string",
                  "value":"silpion-raucherraum"
                 },
                 {
                  "name": "openWebsitePolicy",
                  "value": "camera;microphone"
-                },
-                {
-                 "name": "hasModerator",
-                 "value": false
-                },
-                {
-                 "name": "hasStandby",
-                 "value": false
-                },
-                {
-                 "name": "moderated",
-                 "value": false
                 }
          ],
          "type":"tilelayer",
@@ -182,7 +170,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"meetingRoom",
+                 "name":"classRoom",
                  "type":"string",
                  "value":"silpion-patrick"
                 },
