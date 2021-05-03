@@ -131,6 +131,18 @@
                 {
                  "name": "openWebsitePolicy",
                  "value": "camera;microphone"
+                },
+                {
+                 "name": "hasModerator",
+                 "value": false
+                },
+                {
+                 "name": "hasStandby",
+                 "value": false
+                },
+                {
+                 "name": "moderated",
+                 "value": false
                 }
          ],
          "type":"tilelayer",
