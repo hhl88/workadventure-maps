@@ -124,7 +124,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"chatRooom",
+                 "name":"chatRoom",
                  "type":"string",
                  "value":"silpion-raucherraum"
                 },
